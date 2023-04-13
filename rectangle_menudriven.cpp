@@ -40,9 +40,6 @@ int main()
   }
   
   while(ch1==1) ;                    
- 
- 
- 
  return 0;
 }
 
